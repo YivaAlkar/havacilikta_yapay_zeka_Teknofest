@@ -1,0 +1,37 @@
+# Gizli bilgiler (takım şifresi vb.)
+.env
+*.env
+!example.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Büyük dosyalar: modeller, videolar, arşivler
+*.pt
+*.pth
+*.zip
+*.MP4
+*.mp4
+*.webp
+
+# Veri, çıktı ve eğitim klasörleri
+TAKIM_BAGLANTI_ARAYUZU/data/
+TAKIM_BAGLANTI_ARAYUZU/datasets/
+TAKIM_BAGLANTI_ARAYUZU/_images/
+TAKIM_BAGLANTI_ARAYUZU/_logs/
+TAKIM_BAGLANTI_ARAYUZU/runs/
+TAKIM_BAGLANTI_ARAYUZU/outputs/
+TAKIM_BAGLANTI_ARAYUZU/backups/
+TAKIM_BAGLANTI_ARAYUZU/models/
+
+# Editör / geçici
+.vscode/
+TAKIM_BAGLANTI_ARAYUZU/None
+TAKIM_BAGLANTI_ARAYUZU/Inis
+TAKIM_BAGLANTI_ARAYUZU/Insan
+TAKIM_BAGLANTI_ARAYUZU/Tasit
+TAKIM_BAGLANTI_ARAYUZU/int
+TAKIM_BAGLANTI_ARAYUZU/landing_status
+TAKIM_BAGLANTI_ARAYUZU/0.40
+TAKIM_BAGLANTI_ARAYUZU/0.55
