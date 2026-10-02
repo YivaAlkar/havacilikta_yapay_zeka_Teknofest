@@ -1,15 +1,9 @@
-![TEKNOFEST Havacılıkta Yapay Zeka](banner.jpg)
-
-# 🛩️ TEKNOFEST 2026 · Havacılıkta Yapay Zeka Yarışması
+#  TEKNOFEST 2026 · Havacılıkta Yapay Zeka Yarışması
 
 ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-CUDA-EE4C2C?logo=pytorch&logoColor=white)
 ![YOLO](https://img.shields.io/badge/Ultralytics-YOLO-00FFFF)
 ![TEKNOFEST](https://img.shields.io/badge/TEKNOFEST-2026-E30A17)
-
-Uçan arabanın kamera görüntülerinden **nesne tespiti**, **GPS'siz konum kestirimi** ve **referans nesne tespiti** yapan takım çözümümüz. Resmi yarışma şablonu (`TAKIM_BAGLANTI_ARAYUZU`) üzerine kendi modelimizi, filtrelerimizi ve test araçlarımızı ekledik.
-
-> Resmi yarışma açıklaması için: [RESMI_README.md](RESMI_README.md)
 
 ---
 
